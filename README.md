@@ -7,8 +7,6 @@ this ~~social network profile~~ github page is dedicated to the consequences of 
 ## — whose talking?
 *my* talking. i’ve never been good at maintaining carbon-based living form, but it seems like **interacting with technology brings me *genuine* joy**. 
 
-so for as long as i live, i’m interested in having quality time with technological pieces, which results in me wanting to know how **to make computers serve me exactly as i wish**. 
-
 
 
 ## — ok, so what are you doing exactly?
@@ -16,7 +14,7 @@ lately I’ve been learning to **develop *software* using [swift](https://www.sw
 
 even though i got mathematics and no fear of machines in the background, this is only the beginning of my creational journey!
 
-i really enjoy coding on swift though. convenient and precise language.
+i really enjoy coding on swift though. convenient and precise language. also it feels like i will eventually end up somewhere about ux and accessibility
 
 
 
@@ -41,7 +39,7 @@ https://thislink.doesntexist/yet
 
 
 
-## — you are weird. How do i convey this opinion to you?
+## — you are weird. how do i tell you that?
 no fucking idea yet (◞‸◟) i really expect myself to fill **the contacts in the profile** one day...
 
 please keep in mind that **a also speak russian**, so there is no problem in talking to me in it too! 
