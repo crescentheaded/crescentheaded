@@ -5,16 +5,16 @@ this ~~social network profile~~ github page is dedicated to the consequences of 
 
 
 ## — whose talking?
-*my* talking. i’ve never been good at maintaining carbon-based living form, but it seems like **interacting with technology brings me *genuine* joy**
+*my* talking. i’ve never been good at maintaining carbon-based living form, but it seems like **interacting with technology brings me *genuine* joy**, so...
 
 
 
 ## — ok, so what are you doing exactly?
 lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**
 
-even though i got mathematics and no fear of machines in the background, this is only the beginning of my creational journey!
+even though i got no fear of machines and **mathematics in the background**, this is only the beginning of my creational journey!
 
-i really enjoy coding on swift though. convenient and precise language. also it feels like i will eventually end up somewhere about ux and accessibility
+i really enjoy coding on swift though. convenient and precise language. also it feels like i will eventually end up somewhere about **ux** and **accessibility**
 
 
 
