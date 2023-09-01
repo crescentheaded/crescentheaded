@@ -1,16 +1,16 @@
 # hello dear visitor ヾ(๑╹◡╹)ﾉ"
 
-this ~~social network profile~~ github page is dedicated to the consequences of talking to computers.
+this ~~social network profile~~ github page is dedicated to the consequences of talking to computers
 
 
 
 ## — whose talking?
-*my* talking. i’ve never been good at maintaining carbon-based living form, but it seems like **interacting with technology brings me *genuine* joy**. 
+*my* talking. i’ve never been good at maintaining carbon-based living form, but it seems like **interacting with technology brings me *genuine* joy**
 
 
 
 ## — ok, so what are you doing exactly?
-lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**.
+lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**
 
 even though i got mathematics and no fear of machines in the background, this is only the beginning of my creational journey!
 
@@ -19,9 +19,9 @@ i really enjoy coding on swift though. convenient and precise language. also it 
 
 
 ## about what I produce
-in addition to my unironic excitement, i prefer to **share the acquired knowledge**.
+in addition to my unironic excitement, i prefer to **share the acquired knowledge**
 
-sequentally, the products of my tinkering will transform into an educational representation of my experience too.
+sequentally, the products of my tinkering will transform into an educational representation of my experience too
 
 ### if there is something big i want to share with internet i publish an article. 
 
