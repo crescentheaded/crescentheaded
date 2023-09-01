@@ -23,7 +23,7 @@ in addition to my unironic excitement, i prefer to **share the acquired knowledg
 
 sequentally, the products of my tinkering will transform into an educational representation of my experience too
 
-### if there is something big i want to share with internet i publish an article. 
+### if there is something big i want to share with internet i publish an article:
 
 so a link to my blog about my it-journey is expected to appear here one day:
 
