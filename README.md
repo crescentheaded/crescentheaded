@@ -23,7 +23,7 @@ in addition to my unironic excitement, i prefer to **share the acquired knowledg
 
 sequentally, the products of my tinkering will transform into an educational representation of my experience too
 
-### **documentation** for finished projects goes there:
+### **educational resources** i've consumed in order to be able to do something:
 
 here you can see at what point my software development education is now 
 
