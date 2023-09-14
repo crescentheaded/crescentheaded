@@ -12,7 +12,7 @@ this ~~social network profile~~ github page is dedicated to the consequences of 
 ## — ok, so what are you doing exactly?
 lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**
 
-even though i got no fear of machines and **mathematics in the background**, this is only the beginning of my creational journey!
+in the past lives i had some luck to interact with compooters and mathematics, but anyway this is only the beginning of my creational journey!
 
 i really enjoy coding on swift though. convenient and precise language. also it feels like i will eventually end up somewhere about **ux** and **accessibility**
 
@@ -22,6 +22,12 @@ i really enjoy coding on swift though. convenient and precise language. also it 
 in addition to my unironic excitement, i prefer to **share the acquired knowledge**
 
 sequentally, the products of my tinkering will transform into an educational representation of my experience too
+
+### **documentation** for finished projects goes there:
+
+here you can see at what point my software development education is now 
+
+https://github.com/crescentheaded/studies
 
 ### if there is something big i want to share with internet i publish an article:
 
