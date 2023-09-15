@@ -9,12 +9,17 @@ this ~~social network profile~~ github page is dedicated to the consequences of 
 
 
 
-## — ok, so what are you doing exactly?
-lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**
+## — ok stop. so what are you doing exactly?
 
-in the past lives i had some luck to interact with compooters and mathematics, but anyway this is only the beginning of my creational journey!
+even though i got some technical background (such as mathematical education and general interest in technology), i'd never actually been involved in it-development.
 
-i really enjoy coding on swift though. convenient and precise language. also it feels like i will eventually end up somewhere about **ux** and **accessibility**
+living this life'd been pointing me toward creation of **digital products** more than toward doing anything else, so here we are.
+
+lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**.
+
+at the moment i'm only discovering what can be done and by what means, but i think i *seriously* enjoy coding on swift, so our friendship may long. 
+
+not that i want myself to be a swift magister or something, it just helps me to express my ideas and solve my problems. i think eventually i'll end up somewhere about **ux** and **accessibility**, because the only thing i require from the products of my work is to be as inclusive as possible both for the "business" and the "clients". in my experience, variety as a concept is the greatest part of the universe and i want to serve it in accordance with my awe 
 
 
 
