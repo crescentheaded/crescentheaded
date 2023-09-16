@@ -13,7 +13,7 @@ this ~~social network profile~~ github page is dedicated to the consequences of 
 
 even though i got some technical background (such as mathematical education and general interest in technology), i'd never actually been involved in it-development.
 
-living this life'd been pointing me toward creation of **digital products** more than toward doing anything else, so here we are.
+living this life'd been pointing me toward creation of **digital solutions** more than toward doing anything else, so here we are.
 
 lately I’ve been learning to **develop *software* using [swift](https://www.swift.org/about/) programming language**.
 
