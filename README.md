@@ -51,7 +51,9 @@ https://thislink.doesntexist/yet
 
 
 ## — you are weird. how do i tell you that?
-no fucking idea yet (◞‸◟) i really expect myself to fill **the contacts in the profile** one day...
+~~no fucking idea yet (◞‸◟) i really expect myself to fill **the contacts in the profile** one day...~~
+
+crescenth@keemail.me call me. 
 
 please keep in mind that **i also speak russian**, so there is no problem in talking to me in it too! 
 
