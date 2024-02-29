@@ -19,18 +19,18 @@ lately I’ve been learning to **develop *software* using [swift](https://www.sw
 
 at the moment i'm only discovering what can be done and by what means, but i think i *seriously* enjoy coding on swift, so our friendship may long. 
 
-not that i want myself to be a swift magister or something, it just helps me to express my ideas and solve my problems. i think eventually i'll end up somewhere about **ux research** and **accessibility**, because the only thing i require from the products of my work is to be as inclusive as possible both for the "business" and the "clients". in my experience, variety as a concept is the greatest part of the universe and i want to serve it in accordance with my awe 
+not that i want myself to be a swift magister or something, it just helps me to express my ideas and solve my problems. i think eventually i'll end up somewhere about **ux research** and **accessibility**, because the only thing i require from the products of my work is to be as inclusive as possible both for the "business" and the "clients". in my experience, diversity as a concept is the greatest part of the universe and i want to serve it in accordance with my awe 
 
 
 
 ## about what I produce
 in addition to my unironic excitement, i prefer to **share the acquired knowledge**
 
-sequentally, the products of my tinkering will transform into an educational representation of my experience too
+sequentally, the products of my tinkering transform into an educational representation of my experience. usually late af
 
 ### **educational resources** i've consumed in order to be able to do something:
 
-here you can see at what point my software development education is now 
+that's a dump of curious stuff 
 
 https://github.com/crescentheaded/studies
 
@@ -38,7 +38,7 @@ https://github.com/crescentheaded/studies
 
 so a link to my blog about my it-journey is expected to appear here one day:
 
-https://yesthisisthelink.verysorry
+https://crescentheaded.medium.com
 
 ### additionally, you can see **the codes** here, on github:
 
@@ -46,8 +46,7 @@ https://github.com/crescentheaded?tab=repositories
 
 ### **documentation** for finished projects goes there:
 
-https://thislink.doesntexist/yet
-
+https://crescentheaded.github.io
 
 
 ## — you are weird. how do i tell you that?
