@@ -19,7 +19,9 @@ lately I’ve been learning to **develop *software* using [swift](https://www.sw
 
 at the moment i'm only discovering what can be done and by what means, but i think i *seriously* enjoy coding on swift, so our friendship may long. 
 
-not that i want myself to be a swift magister or something, it just helps me to express my ideas and solve my problems. i think eventually i'll end up somewhere about **ux research** and **accessibility**, because the only thing i require from the products of my work is to be as inclusive as possible both for the "business" and the "clients". in my experience, diversity as a concept is the greatest part of the universe and i want to serve it in accordance with my awe 
+not that i want myself to be a swift magister or something, it just helps me to express my ideas and solve my problems. 
+
+as for solutions i am primarily interested in **accessibility**, because the only thing i require from the products of my work is to be as inclusive as possible both for the "business" and the "clients". in my experience, diversity as a concept is the greatest part of the universe and i want to serve it in accordance with my awe 
 
 
 
@@ -28,25 +30,18 @@ in addition to my unironic excitement, i prefer to **share the acquired knowledg
 
 sequentally, the products of my tinkering transform into an educational representation of my experience. usually late af
 
-### **educational resources** i've consumed in order to be able to do something:
+- [**educational resources**](https://github.com/crescentheaded/studies
+) i've consumed in order to be able to do something
 
-that's a dump of curious stuff 
+- if there is something big i want to share with internet i [**publish articles**](https://crescentheaded.medium.com
+) 
 
-https://github.com/crescentheaded/studies
+- additionally, you can see the [**source codes**](https://github.com/crescentheaded?tab=repositories
+) here, on github
 
-### if there is something big i want to share with internet i publish an article:
+- [**documentation**](https://crescentheaded.github.io
+) for finished projects goes there
 
-so a link to my blog about my it-journey is expected to appear here one day:
-
-https://crescentheaded.medium.com
-
-### additionally, you can see **the codes** here, on github:
-
-https://github.com/crescentheaded?tab=repositories
-
-### **documentation** for finished projects goes there:
-
-https://crescentheaded.github.io
 
 
 ## — you are weird. how do i tell you that?
