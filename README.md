@@ -30,7 +30,7 @@ in addition to my unironic excitement, i prefer to **share the acquired knowledg
 
 sequentally, the products of my tinkering transform into an educational representation of my experience. usually late af
 
-- [**educational resources**](https://github.com/crescentheaded/studies
+- [**educational resources**](https://anaworks.online/desk
 ) i've consumed in order to be able to do something
 
 - if there is something big i want to share with internet i [**publish articles**](https://crescentheaded.medium.com
@@ -39,7 +39,7 @@ sequentally, the products of my tinkering transform into an educational represen
 - additionally, you can see the [**source codes**](https://github.com/crescentheaded?tab=repositories
 ) here, on github
 
-- [**documentation**](https://crescentheaded.github.io
+- [**documentation**](https://anaworks.online/projects
 ) for finished projects goes there
 
 
@@ -47,7 +47,7 @@ sequentally, the products of my tinkering transform into an educational represen
 ## — you are weird. how do i tell you that?
 ~~no fucking idea yet (◞‸◟) i really expect myself to fill **the contacts in the profile** one day...~~
 
-crescenth@keemail.me call me. 
+contact@anaworks.online call me. 
 
 please keep in mind that **i also speak russian**, so there is no problem in talking to me in it too! 
 
